@@ -15,7 +15,7 @@ export default function Header({
         top-0
         z-40
         border-b
-        border-[#ee027e]/10
+        border-[#410102]/10
         bg-white
         shadow-sm
       "
@@ -44,8 +44,8 @@ export default function Header({
           aria-label="Go to home"
         >
           <img
-            src="/vaibhavi.png"
-            alt="The Wardrobe"
+            src="/coffee.jpg"
+            alt="The Coffee"
             className="
               h-[56px]
               w-auto
@@ -82,10 +82,10 @@ export default function Header({
               items-center
               justify-center
               rounded-full
-              bg-[#ee027e]/10
-              text-[#ee027e]
+              bg-[#410102]/10
+              text-[#410102]
               transition
-              hover:bg-[#ee027e]
+              hover:bg-[#410102]
               hover:text-white
               sm:h-10
               sm:w-10
@@ -112,9 +112,9 @@ export default function Header({
               justify-center
               gap-1.5
               rounded-full
-              bg-[#ee027e]/10
+              bg-[#410102]/10
               px-2.5
-              text-[#ee027e]
+              text-[#410102]
               sm:h-10
               sm:gap-2
               sm:px-3

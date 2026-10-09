@@ -216,7 +216,7 @@ export default function ProductDetails({
 
             transition-colors
 
-            hover:text-[#ee027e]
+            hover:text-[#410102]
 
             sm:gap-2
             sm:text-sm
@@ -411,7 +411,7 @@ export default function ProductDetails({
 
                       transition
 
-                      hover:bg-[#ee027e]
+                      hover:bg-[#410102]
                       hover:text-white
 
                       sm:left-3
@@ -462,7 +462,7 @@ export default function ProductDetails({
 
                       transition
 
-                      hover:bg-[#ee027e]
+                      hover:bg-[#410102]
                       hover:text-white
 
                       sm:right-3
@@ -597,7 +597,7 @@ export default function ProductDetails({
 
                           ${
                             active
-                              ? "border-[#ee027e]"
+                              ? "border-[#410102]"
                               : "border-slate-200"
                           }
                         `}
@@ -652,7 +652,7 @@ export default function ProductDetails({
                 font-extrabold
                 uppercase
                 tracking-[0.12em]
-                text-[#ee027e]
+                text-[#410102]
 
                 sm:text-[11px]
 
@@ -838,8 +838,8 @@ export default function ProductDetails({
 
                             ${
                               active
-                                ? "border-[#ee027e] bg-[#ee027e] text-white"
-                                : "border-slate-300 bg-white text-slate-700 hover:border-[#ee027e]"
+                                ? "border-[#410102] bg-[#410102] text-white"
+                                : "border-slate-300 bg-white text-slate-700 hover:border-[#410102]"
                             }
                           `}
                         >
@@ -919,7 +919,7 @@ export default function ProductDetails({
                   className="
                     h-5
                     w-5
-                    text-[#ee027e]
+                    text-[#410102]
 
                     sm:h-[22px]
                     sm:w-[22px]
@@ -952,7 +952,7 @@ export default function ProductDetails({
 
                 rounded-[8px]
 
-                bg-[#ee027e]
+                bg-[#410102]
 
                 px-4
 
@@ -1410,7 +1410,7 @@ export default function ProductDetails({
 //             font-bold
 //             text-slate-700
 //             transition
-//             hover:text-[#ee027e]
+//             hover:text-[#410102]
 //           "
 //         >
 //           <ArrowLeft size={18} />
@@ -1514,7 +1514,7 @@ export default function ProductDetails({
 //                       text-slate-700
 //                       shadow-md
 //                       transition
-//                       hover:bg-[#ee027e]
+//                       hover:bg-[#410102]
 //                       hover:text-white
 //                     "
 //                   >
@@ -1543,7 +1543,7 @@ export default function ProductDetails({
 //                       text-slate-700
 //                       shadow-md
 //                       transition
-//                       hover:bg-[#ee027e]
+//                       hover:bg-[#410102]
 //                       hover:text-white
 //                     "
 //                   >
@@ -1621,7 +1621,7 @@ export default function ProductDetails({
 //                           transition
 //                           ${
 //                             active
-//                               ? "border-[#ee027e]"
+//                               ? "border-[#410102]"
 //                               : "border-slate-200"
 //                           }
 //                         `}
@@ -1664,7 +1664,7 @@ export default function ProductDetails({
 //                 font-extrabold
 //                 uppercase
 //                 tracking-[0.14em]
-//                 text-[#ee027e]
+//                 text-[#410102]
 //               "
 //             >
 //               {product.category_name}
@@ -1781,8 +1781,8 @@ export default function ProductDetails({
 //                           transition
 //                           ${
 //                             active
-//                               ? "border-[#ee027e] bg-[#ee027e] text-white"
-//                               : "border-slate-300 bg-white text-slate-700 hover:border-[#ee027e]"
+//                               ? "border-[#410102] bg-[#410102] text-white"
+//                               : "border-slate-300 bg-white text-slate-700 hover:border-[#410102]"
 //                           }
 //                         `}
 //                       >
@@ -1842,7 +1842,7 @@ export default function ProductDetails({
 
 //                 <ShoppingBag
 //                   size={22}
-//                   className="text-[#ee027e]"
+//                   className="text-[#410102]"
 //                 />
 //               </div>
 //             )}
@@ -1867,7 +1867,7 @@ export default function ProductDetails({
 //                 items-center
 //                 justify-center
 //                 gap-2
-//                 bg-[#ee027e]
+//                 bg-[#410102]
 //                 text-sm
 //                 font-extrabold
 //                 uppercase
@@ -1993,7 +1993,7 @@ export default function ProductDetails({
 //                 font-bold
 //                 uppercase
 //                 tracking-[0.14em]
-//                 text-[#ee027e]
+//                 text-[#410102]
 //               "
 //             >
 //               Explore More

@@ -112,7 +112,7 @@ export default function CheckoutModal({
                   font-bold
                   uppercase
                   tracking-[0.2em]
-                  text-[#ee027e]
+                  text-[#410102]
                 "
               >
                 Checkout
@@ -143,10 +143,10 @@ export default function CheckoutModal({
                 items-center
                 justify-center
                 rounded-full
-                bg-[#ee027e]/10
-                text-[#ee027e]
+                bg-[#410102]/10
+                text-[#410102]
                 transition
-                hover:bg-[#ee027e]/15
+                hover:bg-[#410102]/15
                 disabled:opacity-50
               "
               aria-label="Close checkout"
@@ -164,7 +164,7 @@ export default function CheckoutModal({
               mt-5
               rounded-2xl
               border
-              border-[#ee027e]/10
+              border-[#410102]/10
               bg-[#fff8f8]
               p-4
             "
@@ -196,7 +196,7 @@ export default function CheckoutModal({
                   py-1
                   text-[10px]
                   font-bold
-                  text-[#ee027e]
+                  text-[#410102]
                 "
               >
                 {cartItems.length}{" "}
@@ -317,8 +317,8 @@ export default function CheckoutModal({
                           justify-center
                           rounded-md
                           border
-                          border-[#ee027e]/20
-                          text-[#ee027e]
+                          border-[#410102]/20
+                          text-[#410102]
                           disabled:opacity-40
                         "
                       >
@@ -353,7 +353,7 @@ export default function CheckoutModal({
                           items-center
                           justify-center
                           rounded-md
-                          bg-[#ee027e]
+                          bg-[#410102]
                           text-white
                           disabled:opacity-40
                         "
@@ -388,7 +388,7 @@ export default function CheckoutModal({
                 items-center
                 justify-between
                 border-t
-                border-[#ee027e]/15
+                border-[#410102]/15
                 pt-3
               "
             >
@@ -405,7 +405,7 @@ export default function CheckoutModal({
                 className="
                   text-xl
                   font-black
-                  text-[#ee027e]
+                  text-[#410102]
                 "
               >
                 ₹{formatINR(totalAmount)}
@@ -462,9 +462,9 @@ export default function CheckoutModal({
                   text-slate-800
                   outline-none
                   transition
-                  focus:border-[#ee027e]
+                  focus:border-[#410102]
                   focus:ring-2
-                  focus:ring-[#ee027e]/10
+                  focus:ring-[#410102]/10
                   disabled:bg-slate-50
                 "
               />
@@ -515,9 +515,9 @@ export default function CheckoutModal({
                   text-slate-800
                   outline-none
                   transition
-                  focus:border-[#ee027e]
+                  focus:border-[#410102]
                   focus:ring-2
-                  focus:ring-[#ee027e]/10
+                  focus:ring-[#410102]/10
                   disabled:bg-slate-50
                 "
               />
@@ -565,9 +565,9 @@ export default function CheckoutModal({
                   text-slate-800
                   outline-none
                   transition
-                  focus:border-[#ee027e]
+                  focus:border-[#410102]
                   focus:ring-2
-                  focus:ring-[#ee027e]/10
+                  focus:ring-[#410102]/10
                   disabled:bg-slate-50
                 "
               />
@@ -623,12 +623,12 @@ export default function CheckoutModal({
                 gap-1.5
                 rounded-xl
                 border
-                border-[#ee027e]
+                border-[#410102]
                 bg-white
                 px-2
                 text-[11px]
                 font-bold
-                text-[#ee027e]
+                text-[#410102]
                 transition
                 hover:bg-[#fff0f7]
                 disabled:cursor-not-allowed
@@ -663,14 +663,14 @@ export default function CheckoutModal({
                 justify-center
                 gap-1.5
                 rounded-xl
-                bg-[#ee027e]
+                bg-[#410102]
                 px-2
                 text-[11px]
                 font-bold
                 text-white
                 shadow-md
                 transition
-                hover:bg-[#c90069]
+                hover:bg-[#410102]
                 disabled:cursor-not-allowed
                 disabled:opacity-60
                 sm:gap-2

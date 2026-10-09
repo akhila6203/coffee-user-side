@@ -924,7 +924,7 @@ export default function Home() {
             "INR",
 
           name:
-            "Wardrobe",
+            "Coffee",
 
           description:
             "Order Payment",
@@ -1064,7 +1064,7 @@ export default function Home() {
 
           theme: {
             color:
-              "#ee027e",
+              "#410102",
           },
 
           /* PAYMENT CLOSE */
@@ -1150,7 +1150,7 @@ export default function Home() {
             max-w-md
             rounded-[24px]
             border
-            border-[#ee027e]/10
+            border-[#410102]/10
             bg-white
             p-7
             text-center
@@ -1212,7 +1212,7 @@ export default function Home() {
             Your order has been
             placed successfully.
             Thank you for shopping
-            with Wardrobe.
+            with Coffee.
           </p>
 
           {/* ORDER DETAILS */}
@@ -1234,7 +1234,7 @@ export default function Home() {
                 items-center
                 justify-between
                 border-b
-                border-[#ee027e]/10
+                border-[#410102]/10
                 pb-3
               "
             >
@@ -1269,7 +1269,7 @@ export default function Home() {
                 items-center
                 justify-between
                 border-b
-                border-[#ee027e]/10
+                border-[#410102]/10
                 py-3
               "
             >
@@ -1320,7 +1320,7 @@ export default function Home() {
                 className="
                   text-xl
                   font-black
-                  text-[#ee027e]
+                  text-[#410102]
                 "
               >
                 ₹
@@ -1347,14 +1347,14 @@ export default function Home() {
               mt-6
               w-full
               rounded-xl
-              bg-[#ee027e]
+              bg-[#410102]
               px-5
               py-3.5
               text-sm
               font-bold
               text-white
               transition
-              hover:bg-[#c90069]
+              hover:bg-[#410102]
             "
           >
             Continue Shopping
@@ -1525,7 +1525,7 @@ export default function Home() {
 
                             ${
                               active
-                                ? "ring-[#ee027e]"
+                                ? "ring-[#410102]"
                                 : "ring-transparent"
                             }
                           `}
@@ -1565,7 +1565,7 @@ export default function Home() {
 
                             ${
                               active
-                                ? "font-bold text-[#ee027e]"
+                                ? "font-bold text-[#410102]"
                                 : "font-medium text-slate-700"
                             }
                           `}
@@ -1617,7 +1617,7 @@ export default function Home() {
                 mt-3
                 text-sm
                 font-bold
-                text-[#ee027e]
+                text-[#410102]
               "
             >
               Try again
@@ -1745,10 +1745,10 @@ export default function Home() {
                     items-center
                     justify-center
                     rounded-full
-                    bg-[#ee027e]/10
-                    text-[#ee027e]
+                    bg-[#410102]/10
+                    text-[#410102]
                     transition
-                    hover:bg-[#ee027e]
+                    hover:bg-[#410102]
                     hover:text-white
                   "
                   aria-label="Back to home"
@@ -1892,7 +1892,7 @@ export default function Home() {
               right-0
               z-40
               border-t
-              border-[#ee027e]/10
+              border-[#410102]/10
               bg-white
               px-3
               py-3
@@ -1961,14 +1961,14 @@ export default function Home() {
                   justify-center
                   gap-2
                   rounded-xl
-                  bg-[#ee027e]
+                  bg-[#410102]
                   px-4
                   text-sm
                   font-bold
                   text-white
                   shadow-md
                   transition
-                  hover:bg-[#c90069]
+                  hover:bg-[#410102]
                   disabled:cursor-not-allowed
                   disabled:opacity-60
                 "
@@ -2052,9 +2052,9 @@ export default function Home() {
                 justify-center
                 rounded-full
                 bg-[#fff0f7]
-                text-[#ee027e]
+                text-[#410102]
                 transition
-                hover:bg-[#ee027e]
+                hover:bg-[#410102]
                 hover:text-white
                 sm:right-4
                 sm:top-4
@@ -2081,8 +2081,8 @@ export default function Home() {
               "
             >
               <img
-                src="/vaibhavi.png"
-                alt="The Wardrobe"
+                src="/coffee.jpg"
+                alt="The Coffee"
                 className="
                   h-[75px]
                   w-auto
@@ -2101,7 +2101,7 @@ export default function Home() {
                 mt-3
                 rounded-xl
                 border
-                border-[#ee027e]/10
+                border-[#410102]/10
                 bg-[#fff8fb]
                 px-4
                 py-3.5
@@ -2116,7 +2116,7 @@ export default function Home() {
                   font-extrabold
                   uppercase
                   tracking-[0.12em]
-                  text-[#ee027e]
+                  text-[#410102]
                   sm:text-[11px]
                 "
               >
@@ -2134,7 +2134,7 @@ export default function Home() {
                   sm:leading-6
                 "
               >
-                The wardrobe,Plot no 324 ,road 10, sai township, manneguda,501510, rangareddy, hyderabad
+                The Coffee, hyderabad, Telangana, India.
               </p>
             </div>
 
@@ -2153,7 +2153,7 @@ export default function Home() {
               {/* CALL */}
 
               <a
-                href="tel:+919640364184"
+                href="tel:+919966465050"
                 className="
                   flex
                   h-11
@@ -2162,14 +2162,14 @@ export default function Home() {
                   justify-center
                   gap-1.5
                   rounded-[10px]
-                  bg-[#ee027e]
+                  bg-[#410102]
                   px-2
                   text-[11px]
                   font-bold
                   text-white
                   shadow-sm
                   transition
-                  hover:bg-[#c90069]
+                  hover:bg-[#410102]
                   sm:h-12
                   sm:text-xs
                 "
@@ -2188,7 +2188,7 @@ export default function Home() {
               {/* WHATSAPP */}
 
               <a
-                href="https://wa.me/919640364184?text=Hello%20The%20Wardrobe%2C%20I%20would%20like%20to%20know%20more%20about%20your%20products."
+                href="https://wa.me/919966465050?text=Hello%20The%20Coffee%2C%20I%20would%20like%20to%20know%20more%20about%20your%20products."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="

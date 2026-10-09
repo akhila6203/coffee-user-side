@@ -7,8 +7,8 @@ const axiosClient =
     baseURL:
       import.meta.env
         .VITE_API_BASE_URL ||
-      "http://localhost:5000/api",
-      // "https://wordrobe-api.easybizcart.com/api",
+      // "http://localhost:5000/api",
+      "http://coffee-api.easybizcart.com/api",
 
     timeout: 15000,
 

@@ -172,7 +172,7 @@ export default function ProductCard({
             uppercase
             leading-none
             tracking-[0.08em]
-            text-[#ee027e]
+            text-[#410102]
 
             sm:text-[10px]
 
@@ -265,7 +265,7 @@ export default function ProductCard({
             gap-1
 
             rounded-[8px]
-            bg-[#ee027e]
+            bg-[#410102]
 
             px-2
 
@@ -347,7 +347,7 @@ export default function ProductCard({
 //         overflow-hidden
 //         rounded-[18px]
 //         border
-//         border-[#ee027e]/10
+//         border-[#410102]/10
 //         bg-white
 //         shadow-sm
 //         transition-all
@@ -413,7 +413,7 @@ export default function ProductCard({
 //             font-extrabold
 //             uppercase
 //             tracking-[0.12em]
-//             text-[#ee027e]
+//             text-[#410102]
 //           "
 //         >
 //           {product.category_name || "Collection"}
@@ -467,7 +467,7 @@ export default function ProductCard({
 //             justify-center
 //             gap-2
 //             rounded-xl
-//             bg-[#ee027e]
+//             bg-[#410102]
 //             px-4
 //             text-sm
 //             font-bold
